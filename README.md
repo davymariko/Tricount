@@ -1,5 +1,5 @@
 # Tricount
-Here is a project I worked on my school project in the course of algorithm.
+Here is a project I worked on my school project in the course of algorithm at UCLouvain
 
 A Python program to help friends with their expenses to set accounts to zero.
 
